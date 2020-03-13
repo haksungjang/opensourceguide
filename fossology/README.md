@@ -12,7 +12,7 @@ description: '"Open Source Compliance by Open Source"'
 
 오늘은 이러한 도구 중에서 Linux Foundation의 FOSSology에 대해서 알아보려고 합니다. FOSSology Project \([https://www.fossology.org/](https://www.fossology.org/)\)는 오픈소스로 공개된 소스 코드 스캔 도구로서 기업들이 손쉽게 무료로 사용할 수 있습니다. 
 
-![https://www.fossology.org/](../../.gitbook/assets/fossology-hero.png)
+![https://www.fossology.org/](../.gitbook/assets/fossology-hero.png)
 
 ## 주요 특징
 
