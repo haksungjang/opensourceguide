@@ -4,8 +4,9 @@
 
 ## tools
 
-* [SW360](tools/sw360/README.md)
-  * [설치 방법](tools/sw360/undefined.md)
+* [SW360](sw360/README.md)
+  * [설치 방법](sw360/undefined.md)
+  * [Untitled](sw360/untitled.md)
 * [FOSSology](fossology/README.md)
   * [설치 방법](fossology/untitled.md)
   * [Basic Workflow](fossology/basic-workflow.md)
