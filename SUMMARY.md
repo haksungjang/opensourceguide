@@ -5,16 +5,16 @@
 ## tools
 
 * [SW360](sw360/README.md)
-  * [설치 방법](sw360/undefined.md)
-  * [Untitled](sw360/untitled.md)
+  * [설치 방법](sw360/install.md)
+  * [Basic Workflow](sw360/workflow.md)
 * [FOSSology](fossology/README.md)
-  * [설치 방법](fossology/untitled.md)
-  * [Basic Workflow](fossology/basic-workflow.md)
+  * [설치 방법](fossology/install.md)
+  * [Basic Workflow](fossology/workflow.md)
 
 ## Research
 
 * [License 관련](research/license/README.md)
   * [2019 FOSS Legal Issue Top 10](research/license/2019-foss-legal-issue-top10.md)
-* [Security 관련](research/research-security/README.md)
-  * [OSS Supply Chain Security](research/research-security/oss-supply-chain-security.md)
+* [Security 관련](research/security/README.md)
+  * [OSS Supply Chain Security](research/security/oss-supply-chain-security.md)
 

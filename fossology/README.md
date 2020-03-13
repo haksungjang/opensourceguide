@@ -20,9 +20,9 @@ FOSSology는 웹 기반의 프로그램으로 사용자는 웹사이트에 로�
 
 ## 설치 방법
 
-{% page-ref page="untitled.md" %}
+{% page-ref page="install.md" %}
 
 ## Basic Workflow
 
-{% page-ref page="basic-workflow.md" %}
+{% page-ref page="workflow.md" %}
 
