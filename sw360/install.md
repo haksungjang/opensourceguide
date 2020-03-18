@@ -86,7 +86,7 @@ $ cd sw360vagrant
 $ ./download-packages.sh
 ```
 
-그러면 다음의 package들이 ./shared/package 폴더 안에 다운로드 됩니다.
+그러면 다음의 package들이 ./shared/package 폴더 안에 다운로드 니다.
 
 * Liferay 7.2.1 CE GA2 with Tomcat \(9.0.17\)
 * Postgresql-42.2.9 ODBC client for Java as \*.jar file
