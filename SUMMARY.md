@@ -14,7 +14,7 @@
 ## Research
 
 * [Tools](research/tools/README.md)
-  * [License compliant containers](research/tools/license-compliant-containers.md)
+  * [License compliant containers \(draft\)](research/tools/license-compliant-containers.md)
 * [License 관련](research/license/README.md)
   * [2019 FOSS Legal Issue Top 10](research/license/2019-foss-legal-issue-top10.md)
 * [Security 관련](research/security/README.md)
