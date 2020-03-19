@@ -10,7 +10,7 @@ description: Open Source Program Manager로 경험한 사항들을 가이드 형
 
 
 
-© Haksung, [https://hakssung.github.io/](https://hakssung.github.io/)
+© Haksung, 2020, [https://haksungjang.github.io/](https://haksungjang.github.io/)
 
 
 
