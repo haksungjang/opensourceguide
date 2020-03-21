@@ -4,9 +4,9 @@ description: 조직이 오픈소스에 투자해야 하는 다섯가지 이유
 
 # Five reasons why organizations should invest in open source
 
-GitHub blog에 [Erica Anderson](https://github.blog/author/eanderson/)은 왜 조직 오픈소스에 투자해야 하는지에 대한 글을 포스트하였습니다. : [https://github.blog/2020-03-05-five-reasons-why-organizations-should-invest-in-open-source/](https://github.blog/2020-03-05-five-reasons-why-organizations-should-invest-in-open-source/)
+GitHub blog에 [Erica Anderson](https://github.blog/author/eanderson/)은 왜 조직 오픈소스에 투자해야 하는지에 대한 짤막한 글을 포스트 하였습니다. : [https://github.blog/2020-03-05-five-reasons-why-organizations-should-invest-in-open-source/](https://github.blog/2020-03-05-five-reasons-why-organizations-should-invest-in-open-source/)
 
-여기서는 그 내용을 간략히 살펴보겠습니다. 
+여기서는 이 내용을 간단히 정리하였니, 참고하세요. 
 
 ## 1. 개발 속도가 빨라집니다. 
 
@@ -17,13 +17,23 @@ GitHub blog에 [Erica Anderson](https://github.blog/author/eanderson/)은 왜 �
 
 ## 2. 코드는 더 안전해집니다. 
 
-사람들이 더 많이 참여할 수록 코드는 더 안전해집니다. 코드를 보는 눈이 많아지면 버그를 찾을 기회가 더 많아지기 때입니다. 
+사람들이 더 많이 참여할수록 코드는 더 안전해집니다. 코드를 보는 눈이 많아지면 버그를 찾을 기회가 더 많아지기 때입니다. 
 
-엔터프라이즈 오픈소스 프로젝트에서는 릴리즈 이전에 보안취약점 관리 도구들을 사용하여 발견한 잠재적인 보안 취약점을 비공개로 보고하여 사전에 수정합니다. 
+엔터프라이즈 오픈소스 프로젝트에서는 릴리즈 이전에 보안 취약점 관리 도구들을 사용하여 발견한 잠재적인 보안 취약점을 비공개로 보고하여 사전에 수정합니다. 
 
-## 3. 우수한 개발자를 
+## 3. 인재를 유치합니다.
 
-오픈소스에 참여하는 것은 최고의 인재를 유치하는 좋은 방법입니다. 기업들은 오픈소스 커뮤니티에서 우수한 개발자를 채용합니다. 
+오픈소스에 참여하는 것은 최고의 인재를 유치하는 좋은 방법입니다.
 
+조직이 오픈소스에 기여한다는 건 혁신적인 코드 및 커뮤니티와 협력한다는 의지를 보여주는 구체적인 방법입니다. 최고의 개발자들을 오픈소스에 활발히 기여하는 조직이라면 자신들이 오픈소스 활동을 지속할 수 있고, 인정받을 수 있다고 생각합니다. 
 
+## 4. 더 나은 소프트웨어를 만듭니다.
+
+많은 조직은 오픈소스를 사용하지만 기여하지는 않습니다. 그러나 수동적으로 사용만 하는 것과 활발하게 기여하는 데에는 중요한 차이가 있습니다. 
+
+조직의 소프트웨어를 오픈소스로 공개하면 다수의 사용자에게 도움이 될 뿐만 아니라 전 세계의 오픈소스 커뮤니티에서 기여하여 더 나은 소프트웨어가 될 수 있습니다. 
+
+## 5. 낮은 비용으로 생산성을 높입니다. 
+
+개발자는 필요한 코드를 새로 작성할 필요 없이 간단한 검색만으로 찾을 수 있습니다. 조직은 제품 차별화를 위한 특별한 요구사항이 아닌 부분은 오픈소스를 사용함으로 개발 시간을 단축하고 비용을 절감할 수 있습니다. 마찬가지로, 제품 차별화를 위한 영역이 아니라면 오픈소스로 공개함으로 이러한 효과를 계속해서 기대할 수 있습니다. 
 
