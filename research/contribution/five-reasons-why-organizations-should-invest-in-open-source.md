@@ -1,8 +1,8 @@
 ---
-description: 조직이 오픈소스에 투자해야 하는 다섯가지 이유
+description: Five reasons why organizations should invest in open source
 ---
 
-# Five reasons why organizations should invest in open source
+# 조직이 오픈소스에 투자해야 하는 다섯가지 이유
 
 GitHub blog에 [Erica Anderson](https://github.blog/author/eanderson/)은 왜 조직 오픈소스에 투자해야 하는지에 대한 짤막한 글을 포스트 하였습니다. : [https://github.blog/2020-03-05-five-reasons-why-organizations-should-invest-in-open-source/](https://github.blog/2020-03-05-five-reasons-why-organizations-should-invest-in-open-source/)
 
