@@ -1,2 +1,2 @@
-# Security 관련
+# Security
 

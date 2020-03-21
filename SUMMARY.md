@@ -15,10 +15,12 @@
 
 ## Research
 
+* [Contribution](research/contribution/README.md)
+  * [Five reasons why organizations should invest in open source](research/contribution/five-reasons-why-organizations-should-invest-in-open-source.md)
 * [Tools](research/tools/README.md)
   * [License compliant containers \(draft\)](research/tools/license-compliant-containers.md)
-* [License 관련](research/license/README.md)
+* [Compliance](research/license/README.md)
   * [2019 FOSS Legal Issue Top 10](research/license/2019-foss-legal-issue-top10.md)
-* [Security 관련](research/security/README.md)
+* [Security](research/security/README.md)
   * [OSS Supply Chain Security](research/security/oss-supply-chain-security.md)
 

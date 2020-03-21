@@ -1,2 +1,2 @@
-# License 관련
+# Compliance
 
