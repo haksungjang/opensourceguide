@@ -12,7 +12,7 @@ description: Provides a central hub
 
 ![](https://lh3.googleusercontent.com/MPrOy70nOVSCRiorql9Momzi18lG66Liqttyutjwc9LAhVUwqmVf8xyeEkg085Pm1OYxwPRzyh68Th93ZlKA3fjG5_PnsBQijwUGkRa7o72h8Jco_7BcIwfoR7FGu8hsZA8n5ASq)
 
-## **주요 특징**
+## **Main Features**
 
 SW360은 웹 기반의 UI를 제공하며 주요 기능은 다음과 같습니다.
 
