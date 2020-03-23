@@ -1,8 +1,8 @@
 ---
-description: How to install SW360
+description: SW360의 설치 방법을 설명합니다.
 ---
 
-# 설치 방법
+# How to install
 
 ## 구성
 

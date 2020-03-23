@@ -21,7 +21,7 @@ SW360은 웹 기반의 UI를 제공하며 주요 기능은 다음과 같습니�
 * 라이선스 의무 관리
 * 고지문 등 법적 문서 생성
 
-## 설치 방법
+## How to install
 
 {% page-ref page="install.md" %}
 
