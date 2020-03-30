@@ -6,7 +6,7 @@ description: Why contribute to open source?
 
 지난 '[조직이 오픈소스에 투자해야 하는 다섯가지 이유](https://haksung.gitbook.io/oss/research/contribution/why-organizations-open-source)'에 이어서 이번에는 개발자 입장에서 오픈소스에 기여하는 이유에 대해 정리해보았습니다. 
 
-[opensource.guide](https://opensource.guide/how-to-contribute/#why-contribute-to-open-source)에서는 다음과 같은 사항때문에 개발자들이 오픈소스에 기여하는 것이 필요하다고 설명합니다. : [https://opensource.guide/how-to-contribute/\#why-contribute-to-open-source](https://opensource.guide/how-to-contribute/#why-contribute-to-open-source)
+오픈소스에 기여하는 개발자들은 다음과 같은 이익을 얻을 수 있습니다. :  [https://opensource.guide/how-to-contribute/\#why-contribute-to-open-source](https://opensource.guide/how-to-contribute/#why-contribute-to-open-source)
 
 ### 1. 소프트웨어를 개선한다. 
 
