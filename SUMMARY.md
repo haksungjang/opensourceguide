@@ -16,7 +16,8 @@
 ## Research
 
 * [Contribution](research/contribution/README.md)
-  * [조직이 오픈소스에 투자해야 하는 다섯 가지 이유](research/contribution/five-reasons-why-organizations-should-invest-in-open-source.md)
+  * [조직이 오픈소스에 투자해야 하는 다섯 가지 이유](research/contribution/why-organizations-open-source.md)
+  * [개발자가 오픈소스에 기여해야 하는 이유](research/contribution/why-devoloper-contribute.md)
 * [Tools](research/tools/README.md)
   * [License compliant containers \(draft\)](research/tools/license-compliant-containers.md)
 * [Compliance](research/license/README.md)
