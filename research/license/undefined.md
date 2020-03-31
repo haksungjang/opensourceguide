@@ -10,7 +10,7 @@ description: How and why to properly write copyright statements in your code
 
 ## TL;DR
 
-이 글 전체를 읽을 시간이 도저히 없다면, 최소한 이것 만이라도 보세요. 아래 포맥을 당신이 작성한 모든 소스 코드 파일에 추가하세요. 
+이 글 전체를 읽을 시간이 도저히 없다면, 최소한 이것 만이라도 보세요. 아래 포맷의 저작권 및 라이선스 표시을 당신이 작성한 모든 소스 코드 파일에 추가하세요. 
 
 ```text
 SPDX-FileCopyrightText: © {$year_of_file_creation} {$name_of_copyright_holder} <{$contact}>
@@ -26,7 +26,7 @@ SPDX-License-Identifier: {$SPDX_license_name}
 // SPDX-License-Identifier: BSD-3-Clause
 ```
 
-[REUSE.software](https://reuse.software/) 프로젝트의 가이드를 따르면 모든 파일에 적절한 표시가 되었는지 확인할 수 있습니다. 
+참고로 [REUSE.software](https://reuse.software/) 프로젝트의 가이드를 따르면 모든 파일에 적절한 표시가 되었는지 확인할 수 있습니다. 
 
 ## 저작권이란?
 
