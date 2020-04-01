@@ -23,9 +23,9 @@ SPDX-License-Identifier: {$SPDX_license_name}
 예를 들어, 내가 오늘 소스 코드 파일을 하나 작성하였고, 이를 [BSD-3-Clause](https://spdx.org/licenses/BSD-3-Clause.html) 라이선스로 공개하였다면, 다음과 같은 내용을 파일 상단 주석 부분에 추가합니다. 
 
 ```text
-// SPDX-FileCopyrightText: © 2020 Matija Šuklje <matija@suklje.name>
-// 
-// SPDX-License-Identifier: BSD-3-Clause
+SPDX-FileCopyrightText: © 2020 Matija Šuklje <matija@suklje.name>
+
+SPDX-License-Identifier: BSD-3-Clause
 ```
 
 참고로 [REUSE.software](https://reuse.software/) 프로젝트의 가이드를 따르면 모든 파일에 적절한 표시가 되었는지 확인할 수 있습니다. 
@@ -98,9 +98,9 @@ Inbound vs. Outbound 라이선스
 아래의 예는 위의 모든 사항을 고려하고 SPDX 및 REUSE.software 요구사항을 모두 준수하는 저작권 표시 및 라이선스 고지입니다. 
 
 ```text
-// SPDX-FileCopyrightText: © 2020 Matija Šuklje <matija@suklje.name>
-// 
-// SPDX-License-Identifier: BSD-3-Clause
+SPDX-FileCopyrightText: © 2020 Matija Šuklje <matija@suklje.name>
+ 
+SPDX-License-Identifier: BSD-3-Clause
 ```
 
 이제 당신이 작성한 모든 소스 코드 파일에 이러한 주석이 포함되었는지 확인하세요!
