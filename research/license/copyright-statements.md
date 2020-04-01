@@ -173,7 +173,7 @@ EU에서의 한 예로, 슬로베니아의 ZASP §175. \(1\)은 독점적 저작
 "the symbol © \(the letter C in a circle\), or the word “Copyright”, or the abbreviation “Copr.”"
 {% endhint %}
 
-또한, © 는 "common global denominator"이기 때문에 이를 사용하는 것이 합리적입니다. 
+또한, © 는 "common global denominator"이기 때문에 이를 사용하는 것이 합리적입니다.
 
 © 기호가 호불호가 있을 수 있지만, 실용적인 관점에서 볼 때 사실 그다지 중요하지 않은 부분입니다. 위에서 설명했듯이 저작권은 자동으로 생성되기 때문에 어떤 기호를 쓰느냐에 따라 법적인 리스크가 달라지지는 않습니다. 
 
