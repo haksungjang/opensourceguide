@@ -2,13 +2,13 @@
 description: How and why to properly write copyright statements in your code
 ---
 
-# 코드 내 저작권 표시를 해야 하는 이유와 올바른 방법
+# 소스 코드 내 저작권 표시를 해야 하는 이유와 올바른 방법
 
 오픈소스 분야의 저명한 변호사인 Matija Šuklje는 최근 소스 코드 내 저작권 표시가 필요한 이유와 올바르게 작성하는 방법을 소개하였습니다. : [https://matija.suklje.name/how-and-why-to-properly-write-copyright-statements-in-your-code](https://matija.suklje.name/how-and-why-to-properly-write-copyright-statements-in-your-code)
 
 여기서는 이 글의 주요 사항을 정리하였습니다. 
 
-이 글 전체를 읽을 시간이 도저히 없다면, 최소한 TL;DR 부분만이라도 보고 따르세요. 
+이 글 전체를 읽을 시간이 도저히 없다면, 최소한 TL;DR의 안내를 따라 당신이 작성한 소스 코드에 저작권 및 라이선스를 표시하세요. 
 
 ## TL;DR
 
