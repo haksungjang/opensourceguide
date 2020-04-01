@@ -26,3 +26,12 @@ FOSSology는 웹 기반의 프로그램으로 사용자는 웹사이트에 로�
 
 {% page-ref page="workflow.md" %}
 
+## Test Instance
+
+FOSSology 프로젝트에서는 테스트 서버를 제공합니다. 아래의 URL에 접속하여 FOSSology를 사용해보실 수 있습니다. 
+
+> Server URL: [https://fossology.osuosl.org/](https://fossology.osuosl.org/) 
+>
+> * Login user name: fossy 
+> * Login password: fossy
+
