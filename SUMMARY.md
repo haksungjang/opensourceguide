@@ -4,6 +4,8 @@
 
 ## tools
 
+---
+
 * [SW360](sw360/README.md)
   * [How to install](sw360/install.md)
   * [Basic Workflow](sw360/workflow.md)
@@ -24,6 +26,8 @@
   * [Docker containers : 오픈소스 라이선스 고려사항](research/license/docker-containers.md)
   * [2019 FOSS Legal Issue Top 10](research/license/2019-foss-legal-issue-top10.md)
   * [소스 코드 내 저작권 표시를 해야 하는 이유와 올바른 방법](research/license/copyright-statements.md)
+* [License](research/license-1/README.md)
+  * [Elastic License 2.0 배경](research/license-1/elastic-license-2.0.md)
 * [Security](research/security/README.md)
   * [OSS Supply Chain Security](research/security/oss-supply-chain-security.md)
 
