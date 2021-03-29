@@ -1,6 +1,25 @@
 # Elastic License 2.0 배경
 
-)
+
+> 안녕하세요. 미국의 오픈소스 전문 변호사인 [Heather Meeker](https://heathermeeker.com/about-me/)가 2021년 3월 11일 공개한 Elastic License에 대한 [백서](https://www.coss.community/coss/elastic-license-2-0-and-the-evolution-of-open-source-licensing-3jb3))를 기반으로 아래의 글을 작성하였습니다. 대부분 원글을 번역하는 방식이며, 제 의견은 인용구로 추가하였습니다. 
+> 
+> 참고로, Heather Meeker는 이 백서를 자신의 개인적인 견해임을 나타내면서도 일부 Elastic의 자금 지원이 있었다고 밝혔습니다. 그래서인지, 원글은 Elastic License에 호의적인 입장을 보입니다. 
+>> (조금 찾아보니, Elastic License 2.0을 [Heather Meeker가 작성](https://www.elastic.co/blog/elastic-license-v2)하였군요.)
+> 
+> 여하튼 시대가 변하며 소프트웨어 배포 방식이 바뀌는 상황에 따라 상용 오픈소스 기업들이 개발과 사업을 병행하기 위해 어떤 라이선스 모델을 도입해야 할지 고민해야 했고, Elastic License가 나온 배경에 대한 한 측면을 이해하는 데 도움이 되는 글이라 생각합니다. 
+> 글에 오류가 있다면 언제든 [연락](https://haksungjang.github.io/)해주세요. :-)
+
+---
+
+> I wrote this article based on a [white paper](https://www.coss.community/coss/elastic-license-2-0-and-the-evolution-of-open-source-licensing-3jb3) written on March 11, 2021 by [Heather Meeker](https://heathermeeker.com/about-me/), a prominent open source specialist.
+
+---
+
+최근, 2021년 2월, [Elastic](https://www.elastic.co/)은 소프트웨어 제품에 [Elastic License 2.0](https://www.elastic.co/licensing/elastic-license)이라는 새로운 라이선스를 도입하였다. 이 라이선스 모델은 Elasticsearch, Kibana 등 주요 소프트웨어 제품군에 적용되었다. 이런 변화의 목적과 의미하는 바가 무엇인지 알아보자. 
+
+Elastic License 2.0은 개방형 개발 모델<sub>Open Development Model</sub>로 사업하는 기업이 취할 수 있는 대표적인 라이선스 모범 사례이다. Elastic License 2.0은 오픈소스 라이선스는 아니지만, 소프트웨어의 사용, 공유 및 변경의 자유와 커뮤니티에 해를 끼는 행동 방지 간의 공정한 균형을 유지하는 데 필요한 최소한의 제한 설정을 목표로 한다. 
+
+![scale](./featured-scale.png)
 
 ## 유닉스, 리눅스, 자유소프트웨어, 그리고 오픈소스
 
